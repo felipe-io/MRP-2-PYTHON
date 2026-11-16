@@ -1,0 +1,12 @@
+{
+    "OP-0001": {
+        "codigo": "OP-0001",
+        "tipo": "OP",
+        "item": "SA-020",
+        "quantidade": 50.0,
+        "semana_liberacao": 1,
+        "semana_entrega": 1,
+        "status": "FIRME",
+        "atrasada": false
+    }
+}
